@@ -4,7 +4,7 @@
 
 ###
 
-<h1>Hi 🖐</h1>
+<h1>Hi Wellcome 🖐</h1>
 
 ###
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
